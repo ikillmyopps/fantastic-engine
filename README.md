@@ -20,7 +20,7 @@ Codename Engine is a new Friday Night Funkin' Engine aimed at simplifying moddin
 
 ## How to download
 
-Latest builds for the engine can be found in the [Actions](https://github.com/YoshiCrafter29/CodenameEngine/actions) tab.
+Latest builds for the engine can be found in the [Actions](https://github.com/ikillmyopps/fantastic-engine/actions) tab.
 
 <details>
   <summary><h2>Credits</h2></summary>
