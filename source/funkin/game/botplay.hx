@@ -21,3 +21,4 @@ function main() {
         // Add delay here if necessary
     }
 }
+package funkin.game;
